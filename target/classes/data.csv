@@ -1,0 +1,9 @@
+cid,name,age,gender,date,geo
+1,"david",34,"male",2021-11-18,EU
+2,"julia",30,"female",2021-11-18,EU
+3,"",19,"other",2021-11-18,APAC
+4,,20,"other",2021-11-17,EU
+5,"jon",,"male",2021-11-17,EU
+6,"ana",20,,2021-11-17,EU
+7,"pepe","male",20,2021-11-17,APAC
+8,"pepe",20,20,2021-11-16,APAC

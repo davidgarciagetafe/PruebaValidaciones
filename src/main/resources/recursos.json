@@ -1,0 +1,10 @@
+[{"column":"name",
+    "fatal":false,
+    "error": "isNull"},
+    {"column":"age",
+        "fatal":true,
+        "error": "isNull"},
+    {"column":"gender",
+        "fatal":true,
+        "error": "isNull"}
+ ]

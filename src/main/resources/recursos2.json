@@ -1,0 +1,24 @@
+[{"column":"name",
+    "errores":[
+        {
+            "tipoError":"fatal",
+            "validacion":"isNull"
+        },
+    {
+        "tipoError":"fatal",
+        "validacion":"isNan"
+    }
+    ]
+},{"column":"age",
+    "errores":[
+        {
+            "tipoError":"fatal",
+            "validacion":"isNull"
+        },
+        {
+            "tipoError":"fatal",
+            "validacion":"isNan"
+        }
+    ]
+}
+]
